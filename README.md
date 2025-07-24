@@ -6,7 +6,8 @@ PLACE THE SHADERS IN THIS FOLDER LOCATION
 
 
 PLACE THE MODS IN THIS FOLDER LOCATION
-                    C:\Users\<name>\AppData\Roaming\.minecraft\mods
+                    
+C:\Users\<name>\AppData\Roaming\.minecraft\mods
 
 
 
