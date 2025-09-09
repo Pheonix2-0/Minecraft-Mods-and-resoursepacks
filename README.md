@@ -15,3 +15,6 @@ C:\Users\<name>\AppData\Roaming\.minecraft\mods
 PLACE THE RESOURCE PACKS IN THIS FOLDER LOCATION
                    
 C:\Users\<name>\AppData\Roaming\.minecraft\resourcepacks
+
+YOUTUBE ALL VIDEO AND PLAYLIST DOWNLOAD LINK
+https://github.com/yt-dlp/yt-dlp
