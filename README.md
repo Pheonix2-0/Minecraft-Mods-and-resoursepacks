@@ -25,3 +25,7 @@ GITHUB FOLDER DOWNLOAD WEBSITE
 PASTE THIS IN WEBSITE FOR BACKGROUNDS
 
 https://github.com/Pheonix2-0/Minecraft-Mods-and-resoursepacks/tree/main/Background
+
+DISCORD PLAY GAME FOR 15 MIN QUEST CODE LINK 
+
+https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb
